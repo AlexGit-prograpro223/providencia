@@ -1,0 +1,9 @@
+{
+  "name": "Carnicería Providencia",
+  "short_name": "Providencia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15100e",
+  "theme_color": "#120d0b",
+  "icons": [{ "src": "icono.png", "sizes": "512x512", "type": "image/png" }]
+}
